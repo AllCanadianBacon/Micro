@@ -1,4 +1,4 @@
 # Micro
 Rep for Micro Mass Mailer
 
-branch for update 4.5
+current latest update for micro mass mailer
